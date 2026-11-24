@@ -1,25 +1,26 @@
 # Verificador e Auditor de SEO Mobile
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Verificador SEO Mobile](https://img.shields.io/badge/TAVARDT-Mobile%20SEO-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-seo-mobile/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Diagnostico de viewport mobile, densidade tipografica e compatibilidade com dispositivos portateis.
 
-Desenvolvido e mantido pelo departamento de engenharia web da **TAVARDT**.
+Desenvolvido e mantido pelo departamento de engenharia web da **TAVARDT Portugal**.
 
 ***
 
-## Capacidades de Inspecao de SEO Mobile
+## Capacidades de Inspeção de SEO Mobile
 
 * **Validacao de Balisa Viewport**: Verificacao da configuracao recomendada `width=device-width, initial-scale=1` e prevencao de bloqueios a acessibilidade.
 * **Auditoria de Responsividade Estrutural**: Deteccao de conteudos com largura fixa que provocam rolagem horizontal indesejada em smartphones.
 * **Dimensoes de Alvos de Toque**: Avaliacao de botoes e hiperligacoes interativas com espacamento ergonomico compativel com ecras tacteis.
-* **Legibilidade de Tipografia**: Analise de proporcao e escalabilidade de carateres em dispositivos compactos.
+* **Legibilidade de Tipografia**: Análise de proporcao e escalabilidade de carateres em dispositivos compactos.
 * **Indice de Aptidao Mobile**: Metrica tecnica de 0 a 100 com relatorio de correcoes priorizadas.
 
 ***
 
-## Instalacao e Utilizacao
+## Instalação e Utilizacao
 
 Requer Python 3.8 ou superior recorrendo exclusivamente a biblioteca padrao.
 
@@ -52,4 +53,14 @@ Para modernizacao de ecossistemas digitais segundo Diretivas Europeias de Acessi
 
 ***
 
-© 2026 TAVARDT. Todos os direitos reservados.
+© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
+
+***
+
+## Governança e Conformidade
+
+* **Organização**: TAVARDT-Portugal
+* **Jurisdição**: Portugal
+* **Padrões de Referência**: Normas e frameworks técnicos auditados em estrita observância das regras de soberania.
+
+Desenvolvido pela Divisão de Engenharia e Infraestrutura da TAVARDT Portugal. Todos os direitos reservados.
