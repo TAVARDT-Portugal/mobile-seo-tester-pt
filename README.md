@@ -49,3 +49,7 @@ Para testes em tempo real de adaptabilidade movel:
 ## Suporte Tecnico e Consultoria
 
 Para modernizacao de ecossistemas digitais segundo Diretivas Europeias de Acessibilidade Web e Google Mobile-First, contacte a **TAVARDT Portugal**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
