@@ -5,7 +5,7 @@
 
 Diagnostico de viewport mobile, densidade tipografica e compatibilidade com dispositivos portateis.
 
-Desenvolvido e mantido pelo departamento de engenharia web da **TAVARDT Portugal**.
+Desenvolvido e mantido pelo departamento de engenharia web da **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python mobile_seo_tester.py https://empresa.pt -json
 Para testes em tempo real de adaptabilidade movel:
 
 * **Verificador de SEO Mobile Oficial**
-* **[Portal TAVARDT Portugal](https://ag.tavardt.com/pt/)**
+* **[Portal TAVARDT](https://ag.tavardt.com/pt/)**
 
 ***
 
 ## Suporte Tecnico e Consultoria
 
-Para modernizacao de ecossistemas digitais segundo Diretivas Europeias de Acessibilidade Web e Google Mobile-First, contacte a **TAVARDT Portugal**.
+Para modernizacao de ecossistemas digitais segundo Diretivas Europeias de Acessibilidade Web e Google Mobile-First, contacte a **TAVARDT**.
 
 ***
 
