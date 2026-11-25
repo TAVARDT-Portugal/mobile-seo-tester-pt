@@ -2,11 +2,9 @@
 
 [![Verificador SEO Mobile](https://img.shields.io/badge/TAVARDT-Mobile%20SEO-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-seo-mobile/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)]
 
 Diagnostico de viewport mobile, densidade tipografica e compatibilidade com dispositivos portateis.
-
-Desenvolvido e mantido pelo departamento de engenharia web da **TAVARDT Portugal**.
 
 ***
 
@@ -38,15 +36,6 @@ python mobile_seo_tester.py https://empresa.pt -json
 
 ***
 
-## Ferramenta Oficial Web
-
-Para testes em tempo real de adaptabilidade movel:
-
-* **Verificador de SEO Mobile Oficial**
-* **[Portal TAVARDT](https://ag.tavardt.com/pt/)**
-
-***
-
 ## Suporte Tecnico e Consultoria
 
 Para modernizacao de ecossistemas digitais segundo Diretivas Europeias de Acessibilidade Web e Google Mobile-First, contacte a **TAVARDT**.
@@ -60,7 +49,7 @@ Para modernizacao de ecossistemas digitais segundo Diretivas Europeias de Acessi
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
