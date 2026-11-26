@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/pt/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Verificador e Auditor de SEO Mobile
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
